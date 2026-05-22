@@ -11,10 +11,6 @@ Crear un entorno digital donde el ritmo lo marca el usuario, no el algoritmo. Un
 - **Convivencia Restaurativa**: Sistema de "Tiempo de Recapacitación" para infractores, promoviendo la reflexión sobre el respeto.
 - **Anonimato**: Acceso mediante identificadores únicos.
 
-## Instalación
-1. Clona el repositorio: `git clone [enlace-de-tu-repo]`
-2. Instala dependencias: `npm install`
-3. Inicia el servidor: `npm run dev`
 
 ---
 *Este proyecto busca transformar el sistema, no a la persona.*
